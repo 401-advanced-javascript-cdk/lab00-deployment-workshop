@@ -6,8 +6,9 @@
 ### Author: Chris Kozlowski
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-cdk/lab00-deployment-workshop/pull/1)
-* [travis](https://travis-ci.com/401-advanced-javascript-cdk/lab00-deployment-workshop)
+* [Submission PR](https://github.com/401-advanced-javascript-cdk/lab00-deployment-workshop/pull/1)
+* [Travis](https://travis-ci.com/401-advanced-javascript-cdk/lab00-deployment-workshop)
+* [Heroku App](https://lab00-deployment-workshop.herokuapp.com/)
 
 A lab to test Continous Integration and deployment with GitHub through Heroku and Travis-CI.
 
